@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41" started-at="2018-10-03T17:25:07Z" finished-at="2018-10-03T17:25:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41" started-at="2018-10-03T17:25:07Z" finished-at="2018-10-03T17:25:07Z">
+      <class name="qaclickacademy.Selenium_Ex">
+        <test-method status="PASS" signature="BrowserCode_Extsest()[pri:0, instance:qaclickacademy.Selenium_Ex@5700d6b1]" name="BrowserCode_Extsest" duration-ms="8" started-at="2018-10-03T17:25:07Z" finished-at="2018-10-03T17:25:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserCode_Extsest -->
+        <test-method status="PASS" signature="SeleniumCode_Extest()[pri:0, instance:qaclickacademy.Selenium_Ex@5700d6b1]" name="SeleniumCode_Extest" duration-ms="3" started-at="2018-10-03T17:25:07Z" finished-at="2018-10-03T17:25:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumCode_Extest -->
+      </class> <!-- qaclickacademy.Selenium_Ex -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

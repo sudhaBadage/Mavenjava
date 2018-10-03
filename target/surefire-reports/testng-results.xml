@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23" started-at="2018-10-03T19:26:34Z" finished-at="2018-10-03T19:26:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23" started-at="2018-10-03T19:26:34Z" finished-at="2018-10-03T19:26:34Z">
+      <class name="qaclickacademy.API_ExTest">
+        <test-method status="PASS" signature="APICode_ExTest()[pri:0, instance:qaclickacademy.API_ExTest@61a485d2]" name="APICode_ExTest" duration-ms="0" started-at="2018-10-03T19:26:34Z" finished-at="2018-10-03T19:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APICode_ExTest -->
+        <test-method status="PASS" signature="RestCode_ExTest()[pri:0, instance:qaclickacademy.API_ExTest@61a485d2]" name="RestCode_ExTest" duration-ms="0" started-at="2018-10-03T19:26:34Z" finished-at="2018-10-03T19:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestCode_ExTest -->
+      </class> <!-- qaclickacademy.API_ExTest -->
+      <class name="qaclickacademy.Selenium_ExTest">
+        <test-method status="PASS" signature="BrowserCode_Extsest()[pri:0, instance:qaclickacademy.Selenium_ExTest@59e84876]" name="BrowserCode_Extsest" duration-ms="0" started-at="2018-10-03T19:26:34Z" finished-at="2018-10-03T19:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserCode_Extsest -->
+        <test-method status="PASS" signature="SeleniumCode_Extest()[pri:0, instance:qaclickacademy.Selenium_ExTest@59e84876]" name="SeleniumCode_Extest" duration-ms="0" started-at="2018-10-03T19:26:34Z" finished-at="2018-10-03T19:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumCode_Extest -->
+      </class> <!-- qaclickacademy.Selenium_ExTest -->
+      <class name="qaclickacademy.Appium_ExTest">
+        <test-method status="PASS" signature="MobileCode_ExTest()[pri:0, instance:qaclickacademy.Appium_ExTest@337d0578]" name="MobileCode_ExTest" duration-ms="5" started-at="2018-10-03T19:26:34Z" finished-at="2018-10-03T19:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileCode_ExTest -->
+      </class> <!-- qaclickacademy.Appium_ExTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
